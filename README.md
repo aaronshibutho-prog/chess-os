@@ -1,6 +1,6 @@
 # Chess.OS ♟️
 
-A complete two-player chess game built from scratch in Python and Pygame — no chess libraries, no game engines. Every rule, from piece movement to en passant, is implemented by hand.
+A complete two-player chess game built from scratch in Python and Pygame, no chess libraries, no game engines. Every rule, from piece movement to en passant, is implemented by hand.
 
 <img width="773" height="767" alt="Screenshot 2026-07-04 234612" src="https://github.com/user-attachments/assets/41ce0591-1825-44d0-8548-fe0b2b562526" />
 
