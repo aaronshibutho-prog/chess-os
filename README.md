@@ -2,7 +2,9 @@
 
 A complete two-player chess game built from scratch in Python and Pygame — no chess libraries, no game engines. Every rule, from piece movement to en passant, is implemented by hand.
 
-<img width="1058" height="762" alt="Screenshot 2026-07-04 234648" src="https://github.com/user-attachments/assets/ce4c7400-7357-4a48-bab5-61728c8a69f7" />
+<img width="773" height="767" alt="Screenshot 2026-07-04 234612" src="https://github.com/user-attachments/assets/41ce0591-1825-44d0-8548-fe0b2b562526" />
+
+
 ## Features
 
 - **Full piece movement** — all six piece types with path-blocking and capture logic
